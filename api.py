@@ -27,7 +27,7 @@ def createAccount():
         return jsonify({'message': "invalid cpf"}), 400
 
 
-@app.route('/accounts/cpf', methods=["GET"])
+@app.route('/accounts', methods=["GET"])
 def findCpfByAccount():
     request_get_account = RequestGetCpfAccount(request)
 
