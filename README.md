@@ -8,16 +8,16 @@ it's just of json parameter
 * POST
 ```
 {
- "login": (your login),
- "password": (your password),
- "cpf": (your cpf)
+ "login": "luisa234",
+ "password": "23451",
+ "cpf": "903.255.080-20"
 }
 ```
 * GET
 ```
 {
- "login": (your login),
- "password": (your password)
+ "login": (luisa234),
+ "password": (23451)
 }
 ```
 
