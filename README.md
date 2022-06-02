@@ -1,7 +1,6 @@
 # How to run project
-1. install missing dependencies of python
-2. install package of Pypi [validate-docbr](https://pypi.org/project/validate-docbr/)
-3. in http://localhost:5000/accounts insert your request
+1. run pip install -r requirements.txt in root directory
+2. in http://localhost:5000/accounts insert your request
 
 ### Application of the requisition
 it's just of json parameter
